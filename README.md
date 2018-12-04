@@ -1,4 +1,4 @@
-# QuantTrading_Decal
+# QuantTrading Decal
 
 This is a repo for the Fall 2018 Quantitative Trading Decal at UC Berkeley.
 
