@@ -53,9 +53,9 @@ index | Ticker| Model
 14|	Verizon	|TheilSenRegressor(copy_X=True, fit_intercept=T...
 
 Sample transaction log:
-Stock:  Apple
-Bought at 170.15
-Bought at 169.98
+<pre>Stock:  Apple
+Bought at 170.15</pre>
+<pre>Bought at 169.98<pre>
 Sold at 173.07
 Profit 292.0
 Profit 309.0
