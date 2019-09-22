@@ -54,8 +54,8 @@ index | Ticker| Model
 
 Sample transaction log:
 <pre>Stock:  Apple
-Bought at 170.15</pre>
-<pre>Bought at 169.98<pre>
+Bought at 170.15
+Bought at 169.98
 Sold at 173.07
 Profit 292.0
 Profit 309.0
@@ -203,7 +203,7 @@ Bought at 51.86
 Profit -97.0
 Profit 0.0
 Capital left 99903.0
-Return rate -0.00097
+Return rate -0.00097</pre>
 
 ## Documentation
 
